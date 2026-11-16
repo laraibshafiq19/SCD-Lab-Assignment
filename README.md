@@ -4,19 +4,19 @@ Lab Assignment 2 – Git and GitHub
 
 
 
-Student Name: Your Name
+Student Name: Laraib Shafiq
 
 
 
-Registration Number: Your Registration Number
+Registration Number: 24-arid-4887
 
 
 
-Semester: Your Semester
+Semester: 5
 
 
 
-Session: Fall 2026
+Session: 2024-2028
 
 
 
